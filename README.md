@@ -1,5 +1,8 @@
-# GNS3-Host-2-Host-Communication
+# GNS3-Projects
 Ever wondered What it's like to mess around with networking? Here, we do exactly that.
+
+Please understand that these are mini-projects purely for my learning experience and serves as a mind roadmap to track basics for me. These can serve as a ladder if anyone is interested in learning cloud and networking concepts with me.
+
 # Networking Projects with GNS3
 
 This repository documents my networking projects built with GNS3, simulating how real-world networks function.
